@@ -23,5 +23,5 @@ Remember, the goal is to transform complex academic content into an engaging, ac
 
 ## 📰Medium Article: [Access Here](https://medium.com/@ruchithareddy269/advancements-in-generative-information-extraction-with-large-language-models-a-comprehensive-7b70f611b5da)🔗
 ## 🖥️Slide Deck: [Access Here](https://docs.google.com/presentation/d/1cJS4LzS44mJAkNQ47uHng90_D8ksIO5pPdehpQLw5JY/edit?usp=sharing)🔗
-## ▶️Youtube Video: [Access Here]()
+## ▶️Demo Video: [Access Here]()
 ## Original Paper Link:  [Access Here](https://arxiv.org/pdf/2312.17617.pdf)
